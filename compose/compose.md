@@ -1,4 +1,4 @@
-#  Docker 实践 8：Compose
+#  [Docker 实践 8：Compose](http://blog.csdn.net/lincyang/article/details/44588397)
 
 今天要在我的本子上搭建一个 mediawiki 环境，之前的经验，用 fig 去配置是最简单的了。可是下载 fig 失败，去官网一看才知道，fig 已经被 compose 工具取代了。原文是这样说的：
 

@@ -1,4 +1,4 @@
-#  Docker 实践 3：fig 搭建 mediawiki
+#  [Docker 实践 3：fig 搭建 mediawiki](http://blog.csdn.net/lincyang/article/details/43451043)
 
 fig，无花果。[fig 项目](http://blog.csdn.net/lincyang/article/details/www.fig.sh)源自 docker，可以认为是快速搭建基于 Docker 的隔离开发环境的工具。
 

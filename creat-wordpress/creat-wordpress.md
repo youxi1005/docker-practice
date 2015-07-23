@@ -1,4 +1,4 @@
-#  Docker 实践 4：搭建 wordpress
+#  [Docker 实践 4：搭建 wordpress](http://blog.csdn.net/lincyang/article/details/43850867)
 
 在系列的第一篇文章《 Docker 实践》中已经 search 到并 pull 了官方的 wordpress 镜像，接下来我们还要 search 一个官方的 mysql 将二者结合，搭建一个可用的 wordpress 站点。
 

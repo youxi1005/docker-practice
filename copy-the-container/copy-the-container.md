@@ -1,4 +1,4 @@
-# Docker 实践 7：容器与主机拷贝数据
+# [Docker 实践 7：容器与主机拷贝数据](http://blog.csdn.net/lincyang/article/details/44176569)
 
 在 [Docker 实践 2](http://blog.csdn.net/lincyang/article/details/43450999) 中使用-v 参数将主机与容器中相关目录联系在一起（挂载），所以我们可以用这个通道将想要互相拷贝的数据放入其中，这样就可以用 cp 命令来复制文件了。
 

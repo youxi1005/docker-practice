@@ -1,4 +1,4 @@
-#  Docker 实践 2：用 Docker 搭建 hg-server
+#  [Docker 实践 2：用 Docker 搭建 hg-server](http://blog.csdn.net/lincyang/article/details/43450999)
 
 如果有人已经将 hg server 的 image 做好了，那么我还要自己作吗？答案是拿来用吧。
 

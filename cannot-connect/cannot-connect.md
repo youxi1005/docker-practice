@@ -1,4 +1,4 @@
-# Docker 实践 6：Cannot connect to the Docker daemon.
+# [Docker 实践 6：Cannot connect to the Docker daemon.](http://blog.csdn.net/lincyang/article/details/44156895)
 
 正在免费适用着 Aliyun 主机，当然要用 docker 来部署我的服务器啦。但是今天碰到了题目的问题，细节如下：
 
